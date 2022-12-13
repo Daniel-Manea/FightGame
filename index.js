@@ -1,0 +1,3 @@
+const {GIFEncoder} = require('gifencoder');
+
+
